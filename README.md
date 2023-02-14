@@ -1,3 +1,3 @@
-# **my app**
+# **MyApp**
 
 ## **read me**
